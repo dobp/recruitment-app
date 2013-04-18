@@ -1,2 +1,0 @@
-serviceClass: src.client.JDBCConnectable
-path: 9F322B6C695C6D4F174BFF5C1E49008E.gwt.rpc

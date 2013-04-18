@@ -1,3 +1,0 @@
-# Module jdbcmodule
-# RPC service class, partial path of RPC policy file
-src.client.JDBCConnectable, 9F322B6C695C6D4F174BFF5C1E49008E.gwt.rpc
